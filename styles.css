@@ -1,0 +1,172 @@
+.sec1{
+    background-color: none;
+}
+.sec-1a{
+    padding-left: 200px;
+    background-color: #dc7244;
+    display: flex;
+}
+
+.myicon{
+    color: white;
+}
+
+.sec-1b{
+    background-color: #2c5474;
+    padding-left: 10px;
+}
+
+.ph{
+    padding-top: 20px;
+    padding-right: 10px;
+}
+
+.vertical-line {
+    display: inline-block;
+    border-left: 1px solid #ccc;
+    margin: 0 10px;
+    height: 60px;
+  }
+
+  .adm{
+    padding-top: 10px;
+    padding-left: 10px;
+    color: white;
+  }
+
+  .btn1{
+    color: white;
+  }
+
+  .jsslogo{
+    height: 70px;
+    width: 140px;
+    padding-right: 20px;
+  }
+
+  .sec-2{
+    padding-left: 70px;
+    padding-right: 50px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+  }
+
+  .menus{
+    color: #153c8b;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    padding: 20px;
+  }
+
+  .dropdown-menu{
+    color: #153c8b;
+  }
+
+  .dropdown-menu :hover{
+    color: #dc7244;
+  }
+
+  .mar{
+    color: #153c8b;
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+
+  .sec-3{
+    padding-top: 5px;
+  }
+
+  .sec-5{
+    padding-left: 150px;
+    padding-bottom: 6px;
+  }
+
+  .custom-outline-color {
+    border-color: #dc7244; /* Change this to the desired color */
+  }
+
+ 
+.sec-6{
+    height: 800px;
+    background-color: #153c8b;
+}
+.website_hero{
+    width:800px;
+    height: 800px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+}
+
+  .para{
+    padding-top: 20px;
+    padding-left: 110px;
+  }
+
+  p {
+    padding-right: 50px;
+    color: white;
+    margin-bottom: 20px; /* Adjust the value as needed */
+    /* or */
+    padding-bottom: 20px; /* Adjust the value as needed */
+    font-size: 1.2rem;
+  }
+
+  .btn3{
+    padding-left: 240px;
+  }
+.sec-7{
+  padding-top: 15px;
+  padding-left: 640px;
+  padding-bottom: 5px;
+}
+
+.sec-8{
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-bottom: 40px;
+}
+
+.sec-9{
+    height: 800px;
+    background-color: #112d3d;
+}
+
+h3{
+  color: white;
+}
+
+.para1{
+  padding-left: 70px;
+  font-size: 1.1rem;
+  color: lightblue;
+}
+
+.ind{
+  padding-top: 260px;
+}
+
+.sec-11{
+  padding-top: 40px;
+  padding-left: 80px;
+  background-color: #112d3d;
+  width: auto;
+  height: 280px;
+}
+
+.icon-cont{
+  display: flex;
+}
+
+.sec-12{
+  background-color: #dc7244;
+  width: auto;
+  height: 100px;
+}
+
+.last{
+  padding-top: 5px;
+  float: right;
+}
+  

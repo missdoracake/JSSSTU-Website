@@ -1,0 +1,23 @@
+full(class)- full document
+orange -> #dc7244
+blue -> #2c5474
+mid-blue -> #153c8b
+
+
+
+onclick="location.href='';"
+
+<div class="row">
+  <div class="col-sm-6">
+    
+      
+        <img class="website_hero"src="Photos/website_hero.png" alt="">
+      
+    
+  </div>
+  <div class="col-sm-6">
+    
+        <h6 style="color: #dc7244;">About University</h6>
+      
+  </div>
+</div>
